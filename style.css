@@ -1,0 +1,11 @@
+div.container{
+    display: flex;
+    background-color: rgb(255, 158, 174);
+}
+div.item{
+    flex: auto;
+    background-color: rgb(225, 21, 21);
+    border: 1px solid;
+    margin: 2px;
+    text-align: center;
+}
